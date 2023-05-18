@@ -11,3 +11,6 @@ For my final project I decided to extend Project 3 which was the scheduling proj
 ### LIFO
 * **Non-Preemptive**: The LIFO algorithm is a non-preemptive scheduling algorithm which means that once a process begins to execute, it will continue until it is completed without any interruptions in between.
 * **Workload input**: This implementation accepts a workload file as input, containing arrival time and duration information for each process. This allows for simulating the scheduling algorithm with different workloads and evaluating its performance. This is similar to the other scheduling algorithms as they all accept the same input to create consistency when comparing the different algorithms.
+
+## Video
+[Final Project Video](https://drive.google.com/file/d/1Nz7vXwnYn158YUSqhiZKuNItBxxX7CiS/view?usp=sharing)
